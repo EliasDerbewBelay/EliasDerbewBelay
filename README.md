@@ -1,16 +1,17 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Elias Derbew! 👋
 
-![Banner Image](your_banner_image_url_here)
+<img width="4326" height="1786" alt="image" src="https://github.com/user-attachments/assets/362e6e09-a2be-4c97-9ff9-40ef6457ce56" />
+
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+A self-taught **frontend developer** dedicated to solving complex problems and building innovative web solutions. Skilled in continuous learning and effective collaboration, with current training in ALX's ProDev Frontend course. Eager to apply my passion for development in a dynamic team environment.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **ProDev Frontend course at ALX**
+- 🔭 Working on: **AirBnb Cloning**
+- 🌍 Languages: **Javascript, Typescript, Python**
+- 📫 How to reach me: **eliasderbew1@gmail.com**
+- ⚡ Fun fact: **I'm an ECE student who speaks JavaScript fluently. Currently building my frontend superpowers at ALX.**
 
 ## My Skills 🧠
 
@@ -20,26 +21,9 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
-## Featured Projects 💻
-
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **t.me/Eliasdevstack**
+- **@EliasBelay62961**
 
 
